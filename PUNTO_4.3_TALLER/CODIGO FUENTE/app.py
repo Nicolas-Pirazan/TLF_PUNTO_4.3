@@ -262,7 +262,7 @@ class Grammar:
                 grammar.add_production(nt, prod)
         return grammar
 
-# Almacén de gramáticas (mejor usar una base de datos en producción)
+# Almacén de gramáticas
 grammars = {}
 
 @app.route('/')
