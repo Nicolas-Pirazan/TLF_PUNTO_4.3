@@ -32,13 +32,13 @@ CODIGO FUENTE
 1. **Clonar el repositorio:**
 
    ```bash
-   git clone <URL-del-repositorio>
+   git clone <https://github.com/Nicolas-Pirazan/TLF_PUNTO_4.3.git>
    ```
 
 2. **Navegar a la carpeta del proyecto:**
 
    ```bash
-   cd "c:\Users\nicol\OneDrive\Desktop\SEMESTRE VIII\FORMALES\CODIGOS\PUNTO_4.3_TALLER\CODIGO FUENTE"
+   cd "Ruta de donde se encuetre el proyecto"
    ```
 
 3. **Instalar las dependencias:**
@@ -67,11 +67,3 @@ Abre tu navegador y dirígete a [http://127.0.0.1:5000](http://127.0.0.1:5000) p
 
 3. **Verificar palabras:**  
    Utiliza el módulo de verificación para comprobar si una palabra pertenece al lenguaje generado. Se visualizarán el árbol de derivación y el árbol general de la gramática.
-
-## Contacto
-
-Si tienes sugerencias o encuentras algún problema, puedes comunicarte con el autor o contribuir al repositorio.
-
-## Licencia
-
-Este proyecto es de código abierto y está disponible bajo la licencia MIT.
