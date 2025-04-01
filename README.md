@@ -26,6 +26,7 @@ CODIGO FUENTE
 
 - Python 3.x
 - Flask (se puede instalar con `pip install Flask`)
+- Conexion a internet
 
 ## Instalación
 
